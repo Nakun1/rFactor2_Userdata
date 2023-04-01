@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Porsche_Cup
+{
+  P Thompson
+  {
+    Team = JDX Racing
+    Component = Porsche_992_GT3_Cup_2022
+    Skin = alt_22PCCNA_9.mas
+    VehFile = 27_GPELITEC610D23C.VEH
+    Description = Porsche 992 Cup #9na
+    Number = 9
+  }
+}

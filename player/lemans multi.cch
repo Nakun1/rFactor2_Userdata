@@ -1,0 +1,36 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=1267
+Money=5001267
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Ferrari_488_GTE_2020\3.11\F488GTE_6772BB38B2.VEH"
+SinglePlayerFilter="|GTE|LMP3"
+MultiPlayerFilter="|GTE|GTE_AstonMartin|GTE_BMW_M8|GTE_Corvette_C7.R|GTE_Corvette_C8.R|GTE_FERRARI_488|GTE_Porsche_991RSR|LMP3|LMP3_Ligier_JS_P320|LMP3_Norma_M30|LeMans24HV|LeMans24HV_2020|LeMans24HV_2022"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=30
+TotalRaces=1
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=7.000000
+AvgFinishPosition=3.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=LEMANS2022
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\LEMANS_2018\2.83\LEMANS2022
+ClassRecord="*",30,234.4165,241.7715,238.0941
+ClassRecord="GTE",30,234.4165,241.7715,238.0941
+CRL="Ferrari 488 GTE #67","Soft","Soft",27994954,3840469740,335675392
+CRQ="Ferrari 488 GTE #67","Soft","Soft",27994863,4059230192,1879179264
+CRR="Ferrari 488 GTE #67","Soft","Soft",27994892,3806651365,956432384
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GTE",-1.0000,-1.0000,-1.0000,0
+AIParameters="LMP3",-1.0000,-1.0000,-1.0000,0
+

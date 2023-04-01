@@ -1,0 +1,33 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=11
+Money=5000011
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_Cup_GT4_2020\1.15\CUP_GT4_962.VEH"
+SinglePlayerFilter="GT4"
+MultiPlayerFilter="|GT4|GT4Cup"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=9
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=AUTUMNRING
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\AUTUMNRING - BY GRIDWAY\1.0\AUTUMNRING
+ClassRecord="*",9,88.0308,-1.0000,-1.0000
+ClassRecord="GT4",9,88.0308,-1.0000,-1.0000
+CRL="CUP GT4 #962 Frikad","S7M (Soft)","S7M (Soft)",27665796,4177066747,1761755136
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT4",-1.0000,-1.0000,-1.0000,0
+

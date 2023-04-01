@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=3658
+Money=5003658
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH"
+SinglePlayerFilter="Porsche_Cup"
+MultiPlayerFilter="|Porsche_Cup"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=191
+TotalRaces=3
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=3.333333
+AvgFinishPosition=8.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=MAGNYCOURS
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\MAGNYCOURS_GP\1.52\MAGNYCOURS
+ClassRecord="*",191,100.3242,109.6918,109.8436
+ClassRecord="Porsche 992 GT3 Cup",191,100.3242,109.6918,109.8436
+CRL="Porsche 992 Cup #27","Dry","Dry",27968755,4126469873,33685504
+CRQ="Porsche 992 Cup #27","Wet","Wet",27970350,4177064948,235012096
+CRR="Porsche 992 Cup #27","Wet","Wet",27970396,4143377391,1912733696
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+

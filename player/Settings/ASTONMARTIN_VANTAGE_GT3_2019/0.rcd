@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  ESPY971S4
+  {
+    Team = ESport Performance Racing Yellow
+    Component = AstonMartin_Vantage_GT3_2019
+    Skin = alt_ESPY971S4.mas
+    VehFile = AMV_GT3_01FBE87734.VEH
+    Description = #971 DeltaForceFR
+    Number = 971
+  }
+}

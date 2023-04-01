@@ -1,0 +1,44 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[COMPONENTS]
+LanguagesFile=FRENCH.DIC
+ObjDetail=3
+TexDetail=3
+VideoGUID=00002206-0000-0000-0000-000000000000
+VideoDriver=0
+VideoMode=103
+VrSettings=0
+EPostProcessingSettings=4
+VideoRefresh=6
+WindowedMode=0
+Borderless=1
+RunBenchmarks=0
+MSAA=8
+VSyncMode=0
+UseFXAA=0
+ShaderLevel=0
+SubViews=0
+UseSubViewParams=1
+WorkaroundFlags=0
+ViewParams=(0.540, 0.340, 0.600, 15.000, 0.037) // screen width (m), screen height (m), eye distance (m), side angle (deg), bezel gap (m)
+LeftView=(0.540, 0.340, 0.600, 15.000, 0.037)
+RightView=(0.540, 0.340, 0.600, 15.000, 0.037)
+PreferredGPU=66685
+WidescreenUI=0
+WidescreenUIWidth=669378560
+WidescreenHUD=0
+CustomVidRes=(0, 0)
+VRMirrorWindowVidRes=(1920, 1080)
+VRUIScale=(0.750, 0.750, 0.750)
+MinimumVidRes=(800, 600)
+MaximumVidRes=(99999, 99999)
+
+[INSTALL]
+InstallFrom=
+InstallTo=
+
+[AUTOLAUNCH]
+Mode=Off
+LaunchTime=600
+
+[VERSION]
+Version=-1.000000

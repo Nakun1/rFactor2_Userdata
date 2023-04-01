@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GTE
+{
+  altjcp9gte
+  {
+    Team = Flying Lizard Motorsports
+    Component = Porsche_991RSR_GTE_2017
+    Skin = altjcp9gte.mas
+    VehFile = IMSA911ALTDF4F0FF6.VEH
+    Description = Flying Lizard GTE
+    Number = 77
+  }
+}

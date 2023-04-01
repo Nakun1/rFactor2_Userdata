@@ -1,0 +1,32 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=3134
+Money=5003134
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\AstonMartin_Vantage_GT3_2019\1.87\AM_STOP_891475F40E.VEH"
+SinglePlayerFilter="GT3_AstonMartin"
+MultiPlayerFilter="|AC_427_Comp|AC_427_SC|BTCC_Civic|Brabham_BT20|Clio_Cup|GT-R|GT2_2009_C6R|GT2_2010_C6R|GT2_C6R|GT3|GT3_AstonMartin|GT3_Audi_R8_LMS_2018|GT3_Audi_R8_LMS_2019|GT3_BMW_M4|GT3_BMW_M6|GT3_Bentley_Continental|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_Camaro|GT3_Camaro_2013|GT3_FERRARI_488|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo|GT500|Group4|Group6|Honda_NSX|Honda_NSX-R|Howston_G4_MkIIIB_69|Howston_G4_MkIII_67|Howston_G4_MkIII_68|Howston_G6_MkIIIB_68|Howston_G6_MkIIIB_69|Howston_G6_MkIII_67|Howston_G6_MkII_66|Howston_G6_MkI_65|IndyCar_2014|IndyCar_2014_Chevrolet|IndyCar_2014_Honda|KartF1_2014|KartJunior_2014|LMP1|LMP1_ByKolles|Mazda_787B|Porsche_962C|Sauber_C11|StockCar_2015"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=0
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=SPA_2020
+TrackFile=F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Locations\SpaFrancorchamps_2020\1.15\SPA_2020
+ClassRecord="*",0,-1.0000,-1.0000,-1.0000
+ClassRecord="GT3",0,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3",-1.0000,-1.0000,-1.0000,0
+

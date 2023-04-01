@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+155V6
+{
+  ARS TAULIER
+  {
+    Team = ALFA Carbon 155
+    Component = ALFA ROMEO 155 BY SIMDRIVERS.EU
+    Skin = alt.mas
+    VehFile = 155_09.VEH
+    Description = ALFA 155 Carbon
+    Number = 1
+  }
+}

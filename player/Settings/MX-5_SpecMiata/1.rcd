@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Spec_Miata2
+{
+  TDM900-2
+  {
+    Team = Viking France
+    Component = MX-5_SpecMiata
+    Skin = alt.mas
+    VehFile = SM2_205.VEH
+    Description = MX5
+    Number = 54
+  }
+}

@@ -1,0 +1,34 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=240
+Money=5000240
+CurSeasIndex=0
+SinglePlayerVehicle="D:\Jeux\SteamLibrary\steamapps\common\rFactor 2\Installed\Vehicles\Datsun Bluebird\0.3.0\SSS_5.VEH"
+SinglePlayerFilter="Datsun-SSS-L18"
+MultiPlayerFilter="|Datsun-SSS-1970|Datsun-SSS-1971|Datsun-SSS-L18|Datsun-SSS-L20B"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=30
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=VALLELUNGA EXTENDED
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\VALLELUNGA\1.5\VALLELUNGA EXTENDED
+ClassRecord="*",30,112.8274,-1.0000,-1.0000
+ClassRecord="1970",0,-1.0000,-1.0000,-1.0000
+ClassRecord="L20B",30,112.8274,-1.0000,-1.0000
+CRL="John Evans #73","DRY","DRY",27673326,3807768054,302137344
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="L20B",-1.0000,-1.0000,-1.0000,0
+

@@ -1,0 +1,32 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=0
+Money=5000000
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Datsun Bluebird\0.3.0\L20B_SSS_73.VEH"
+SinglePlayerFilter="Datsun-SSS-L20B"
+MultiPlayerFilter="|207_GRAVEL|207_TARMAC|BMW1_2008|BMW320GTO|Datsun-SSS-1970|Datsun-SSS-1971|Datsun-SSS-L18|Datsun-SSS-L20B|FF40LM|Flat6Series|GT3|GT3Cup-Endurance|GT3Cup-SuperCup|GT3_AstonMartin|GT3_Audi_R8_LMS_2018|GT3_Audi_R8_LMS_2019|GT3_BMW_M4|GT3_BMW_M6|GT3_Bentley_Continental|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_FERRARI_488|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo|GTE|GTE_AstonMartin|GTE_BMW_M8|GTE_Corvette_C7.R|GTE_Corvette_C8.R|GTE_FERRARI_488|GTE_Porsche_991RSR|IAVA|LeMans24HV|LeMans24HV_2020|LeMans24HV_2022|Legends_Cars|Porsche_Cup|PumaGTE|Spec_Miata|Spec_Miata1|Spec_Miata2"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=3
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=TARGA_FLORIO
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\TARGA_FLORIO\1.12\TARGA_FLORIO
+ClassRecord="*",3,-1.0000,-1.0000,-1.0000
+ClassRecord="L20B",3,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="L20B",-1.0000,-1.0000,-1.0000,0
+

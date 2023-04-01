@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  Metalazo
+  {
+    Team = Mezzo
+    Component = McLaren_720S_GT3_2018
+    Skin = alt.mas
+    VehFile = AGP_Metalazo.veh
+    Description = Mc Laren 720s
+    Number = 99
+  }
+}

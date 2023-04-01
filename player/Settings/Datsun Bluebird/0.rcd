@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Datsun-SSS-L20B
+{
+  Fred
+  {
+    Team = Nakuni Simracing
+    Component = Datsun Bluebird
+    Skin = L20B_SSS_73.DDS
+    VehFile = L20B_SSS_73.VEH
+    Description = Prout
+    Number = 25
+  }
+}

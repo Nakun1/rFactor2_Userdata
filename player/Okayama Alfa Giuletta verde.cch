@@ -1,0 +1,57 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=7800
+Money=5007800
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ARG_ISR_2011\1.0\RACINGHART_26.VEH"
+SinglePlayerFilter="ARG_ISR_2011"
+MultiPlayerFilter="|ARG_ISR_2011"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=309
+TotalRaces=14
+TotalRacesWithAI=10
+TotalPointsScored=11
+TotalChampionships=0
+TotalWins=1
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=10.142858
+AvgFinishPosition=15.714286
+AvgRaceDistance=44.285713
+AvgOpponentStrength=95.000000
+[PLAYERTRACKSTAT]
+TrackName=OKAYAMA_2017
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\OKAYAMA_2017\1.6\OKAYAMA_2017
+ClassRecord="*",309,97.2202,97.2202,98.2791
+ClassRecord="Racing Hart",309,97.2202,97.2202,98.2791
+CRL="#26 Simone Iacone","Soft","Soft",27634594,3907582200,184696832
+CRQ="#26 Simone Iacone","Soft","Soft",27634594,3907582200,184696832
+CRR="#26 Simone Iacone","Soft","Soft",27641800,3772643064,151142400
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="MANUFACTORY",-1.0000,-1.0000,-1.0000,0
+AIParameters="Racing Hart",-1.0000,-1.0000,-1.0000,0
+AIParameters="Pirelli Corse",-1.0000,-1.0000,-1.0000,0
+AIParameters="Jamaica Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="Gulf Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="West Motorsport",-1.0000,-1.0000,-1.0000,0
+AIParameters="Fly Lizard Team",-1.0000,-1.0000,-1.0000,0
+AIParameters="Playboy Sport",-1.0000,-1.0000,-1.0000,0
+AIParameters="Maranello Team",-1.0000,-1.0000,-1.0000,0
+AIParameters="150 ITALIA",-1.0000,-1.0000,-1.0000,0
+AIParameters="Orange Motorsport",-1.0000,-1.0000,-1.0000,0
+AIParameters="Viper Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="MasterCard Team",-1.0000,-1.0000,-1.0000,0
+AIParameters="Falken Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="Modern Warfare Team",-1.0000,-1.0000,-1.0000,0
+AIParameters="Martini Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="Red Bull Motorsport",-1.0000,-1.0000,-1.0000,0
+AIParameters="Marlboro Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="Ing Direct Team",-1.0000,-1.0000,-1.0000,0
+AIParameters="Vodafone Racing",-1.0000,-1.0000,-1.0000,0
+AIParameters="Vizualtech Sport",-1.0000,-1.0000,-1.0000,0
+AIParameters="Duff Corse",-1.0000,-1.0000,-1.0000,0
+AIParameters="Petronas Team",-1.0000,-1.0000,-1.0000,0
+

@@ -1,0 +1,34 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=120
+Money=5000120
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Ferrari_488_GTE_2020\3.11\F488GTE_71FD9ABF52.VEH"
+SinglePlayerFilter="GTE_FERRARI_488"
+MultiPlayerFilter="|GT3|GT3_AstonMartin|GT3_Audi_R8_LMS_2019|GT3_BMW_M4|GT3_BMW_M6|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo|GTE|GTE_AstonMartin|GTE_BMW_M8|GTE_Corvette_C7.R|GTE_Corvette_C8.R|GTE_FERRARI_488|GTE_Porsche_991RSR|LeMans24HV|LeMans24HV_2020|LeMans24HV_2022"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=27
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=LONGBEACH_2022
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\LONGBEACH_2022\1.01\LONGBEACH_2022
+ClassRecord="*",27,79.2368,-1.0000,-1.0000
+ClassRecord="GTE",27,79.2368,-1.0000,-1.0000
+CRL="Ferrari 488 GTE #71","Soft","Soft",27954347,4076073715,50462720
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3",-1.0000,-1.0000,-1.0000,0
+AIParameters="GTE",-1.0000,-1.0000,-1.0000,0
+

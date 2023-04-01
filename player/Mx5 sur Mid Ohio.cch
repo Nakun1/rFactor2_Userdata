@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=11507
+Money=5011507
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\MX-5_SpecMiata\1.05\SM2_209.VEH"
+SinglePlayerFilter="Spec_Miata2"
+MultiPlayerFilter="|Spec_Miata|Spec_Miata1|Spec_Miata2"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=327
+TotalRaces=18
+TotalRacesWithAI=13
+TotalPointsScored=26
+TotalChampionships=0
+TotalWins=2
+TotalPoles=2
+TotalLapRecords=0
+AvgStartPosition=10.166666
+AvgFinishPosition=13.526455
+AvgRaceDistance=50.000000
+AvgOpponentStrength=95.000000
+[PLAYERTRACKSTAT]
+TrackName=MIDOHIO_MI200
+TrackFile=D:\JEUX\STEAMLIBRARY\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\MIDOHIO_VIRTUA_LM\2.02\MIDOHIO_MI200
+ClassRecord="*",327,96.6814,96.6957,97.3499
+ClassRecord="SpecMiata Level 2",327,96.6814,96.6957,97.3499
+CRL="#209 Cordolo Red","Shaved","Shaved",27891139,4008963570,956448768
+CRQ="#209 Cordolo Red","Shaved","Shaved",27892605,3874350317,67239936
+CRR="#209 Cordolo Red","Shaved","Shaved",27891188,3958434287,906117120
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="SpecMiata Level 2",-1.0000,-1.0000,-1.0000,0
+

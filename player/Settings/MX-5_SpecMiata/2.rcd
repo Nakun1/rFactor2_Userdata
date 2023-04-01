@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Spec_Miata2
+{
+  AGP_FoXy_85
+  {
+    Team = Ventre a Choux Racing Team
+    Component = MX-5_SpecMiata
+    Skin = FoXy_alt.dds.ma
+    VehFile = SM2_203.VEH
+    Description = #03 VAC Racing Team
+    Number = 03
+  }
+}

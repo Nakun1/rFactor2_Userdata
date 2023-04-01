@@ -1,0 +1,195 @@
+VehicleClassSetting="Spec_Miata2"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\Jeux\SteamLibrary\steamapps\common\rFactor 2\Installed\Vehicles\MX-5_SpecMiata\1.05\SM2_208.VEH
+//UpgradeClass=
+//Body=0
+//Scratchable vs. Detachable Items=0
+//Splitter Option=0
+//Additional AIM Solo 2 DL Display=0
+//Class Position Led=0
+//Steering Configuration=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=0
+//CGHeightSetting=0//34.2 cm
+//CGRightSetting=0//50.0:50.0
+CGRearSetting=10//51.0:49.0
+//WedgeSetting=0//0.00 tourne
+//FrontTireCompoundSetting=0//Shaved
+//RearTireCompoundSetting=0//Shaved
+FuelSetting=3//4L (8tours)
+//NumPitstopsSetting=1//1
+//Pitstop1Setting=0//+0L (0tours)
+//Pitstop2Setting=0//N/A
+//Pitstop3Setting=0//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+RWSetting=0//1
+
+[BODYAERO]
+//WaterRadiatorSetting=0//0%
+//OilRadiatorSetting=0//
+//BrakeDuctSetting=0//1
+//BrakeDuctRearSetting=0//1
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//0.0 cm
+//RearWheelTrackSetting=0//0.0 cm
+FrontAntiSwaySetting=19//3.40 cm
+RearAntiSwaySetting=27//4.20 cm
+//FrontToeInSetting=14//-0.10 deg
+//FrontToeOffsetSetting=0//0.00 deg
+RearToeInSetting=15//0.00 deg
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=20//4.5 deg
+RightCasterSetting=20//4.5 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detacher
+//Front3rdTenderSpringSetting=0//Detacher
+//Front3rdTenderTravelSetting=0//Detacher
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detacher
+//Rear3rdTenderSpringSetting=0//Detacher
+//Rear3rdTenderTravelSetting=0//Detacher
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+//SteerLockSetting=13//1008 (29) deg
+//RearBrakeSetting=10//70.0:30.0
+//BrakePressureSetting=5//100%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//Aid (Weight Penalty)
+//ABSSetting=0//Aid (Weight Penalty)
+//TractionControlMapSetting=0//0
+//TCPowerCutMapSetting=0//0
+//TCSlipAngleMapSetting=0//0
+//AntilockBrakeSystemMapSetting=0//0
+
+[ENGINE]
+//RevLimitSetting=0//N/A
+//EngineBoostSetting=0//1
+//EngineMixtureSetting=0//0
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=0//2.87:1
+//ReverseSetting=0//4.70 (13.49)
+Gear1Setting=0//5.09 (14.61)
+Gear2Setting=0//3.00 (8.61)
+Gear3Setting=0//2.04 (5.85)
+Gear4Setting=0//1.59 (4.56)
+Gear5Setting=0//1.29 (3.70)
+Gear6Setting=0//1.00 (2.87)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=0//0%
+//DiffCoastSetting=1//10%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+//GearAutoUpShiftSetting=0//Sans
+//GearAutoDownShiftSetting=0//Sans
+
+[FRONTLEFT]
+//CamberSetting=0//-3.6 deg
+//PressureSetting=0//103 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=8//88 Stock
+//TenderSpringSetting=0//Detacher
+//TenderTravelSetting=0//Detacher
+//SpringRubberSetting=0//Detacher
+//RideHeightSetting=0//8.5 cm
+SlowBumpSetting=8//5550 Nm/s
+//FastBumpSetting=2//2950 Nm/s
+//SlowReboundSetting=6//8320 Nm/s
+//FastReboundSetting=2//4420 Nm/s
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=1//-3.5 deg
+//PressureSetting=0//103 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=8//88 Stock
+//TenderSpringSetting=0//Detacher
+//TenderTravelSetting=0//Detacher
+//SpringRubberSetting=0//Detacher
+//RideHeightSetting=0//8.5 cm
+SlowBumpSetting=8//5550 Nm/s
+//FastBumpSetting=2//2950 Nm/s
+//SlowReboundSetting=6//8320 Nm/s
+//FastReboundSetting=2//4420 Nm/s
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=2//-3.8 deg
+//PressureSetting=0//103 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=8//53 Stock
+//TenderSpringSetting=0//Detacher
+//TenderTravelSetting=0//Detacher
+//SpringRubberSetting=0//Detacher
+RideHeightSetting=9//9.4 cm
+//SlowBumpSetting=5//4650 Nm/s
+//FastBumpSetting=1//2600 Nm/s
+//SlowReboundSetting=4//7100 Nm/s
+//FastReboundSetting=4//4600 Nm/s
+//BrakeDiscSetting=0//2.80 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+CamberSetting=2//-3.8 deg
+//PressureSetting=0//103 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=8//53 Stock
+//TenderSpringSetting=0//Detacher
+//TenderTravelSetting=0//Detacher
+//SpringRubberSetting=0//Detacher
+RideHeightSetting=9//9.4 cm
+//SlowBumpSetting=5//4650 Nm/s
+//FastBumpSetting=1//2600 Nm/s
+//SlowReboundSetting=4//7100 Nm/s
+//FastReboundSetting=4//4600 Nm/s
+//BrakeDiscSetting=0//2.80 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

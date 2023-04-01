@@ -1,0 +1,31 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=0
+Money=5000000
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Ford_GT40_MkIV\1.4\MKIV_04.VEH"
+SinglePlayerFilter="Ford_GT40_Mk4"
+MultiPlayerFilter="|1966_All_Endurance|1966_GT2.0-4.0|1966_GT2.0/4.0|1966_Pr2.0/4.0|1966_Pr4.0/5.0|1966_Pr5.0+|1966_Sp4.0/5.0|1967_All_Endurance|1967_GT|1967_Pr1.1|1967_Pr1.1/1.3|1967_Pr1.3/1.6|1967_Pr1.6/2.0|1967_Pr3.0/5.0|1967_Pr5.0+|1967_Sp1.1/1.3|1967_Sp1.6/2.0|1967_Sp3.0/5.0|Ferrari_P4|Ford_GT40_Mk4|LM24H_1967_Proto"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=0
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=LE_GRAND_CIRCUIT_1967
+TrackFile=C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Locations\Le_Grand_Circuit_1967\0.80\LE_GRAND_CIRCUIT_1967
+ClassRecord="*",0,-1.0000,-1.0000,-1.0000
+ClassRecord="LM24H_1967_Proto",0,-1.0000,-1.0000,-1.0000
+AIParameters="LM24H_1967_Proto",-1.0000,-1.0000,-1.0000,0
+

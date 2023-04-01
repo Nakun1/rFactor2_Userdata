@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=3950
+Money=5003950
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Tatuus_F3_T318_2018\1.20\ASIA_F3_BLE2752BBD.VEH"
+SinglePlayerFilter="Asia"
+MultiPlayerFilter="|Asia|F.3|T318|Tatuus|WSK"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=140
+TotalRaces=3
+TotalRacesWithAI=0
+TotalPointsScored=8
+TotalChampionships=0
+TotalWins=1
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=3.000000
+AvgFinishPosition=1.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=BUDDH_GP
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\BUDDH_INTERNATIONAL_CIRCUIT\2.01\BUDDH_GP
+ClassRecord="*",140,107.4756,108.9111,107.9426
+ClassRecord="Tatuus F.3 T318 Asia",140,107.4756,108.9111,107.9426
+CRL="Tatuus F.3 T318 #09","Slicks","Slicks",27607291,4143445751,67239936
+CRQ="Tatuus F.3 T318 #09","Slicks","Slicks",27607251,4177132283,537001984
+CRR="Tatuus F.3 T318 #09","Slicks","Slicks",27607439,3470317277,268566528
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Tatuus F.3 T318 Asia",-1.0000,-1.0000,-1.0000,0
+

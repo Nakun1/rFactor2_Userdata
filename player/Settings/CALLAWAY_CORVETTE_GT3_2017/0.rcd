@@ -1,0 +1,12 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  NR_Nanex
+  {
+    Team = NFR Team
+    Component = Callaway_Corvette_GT3_2017
+    Skin = alt.mas
+    VehFile = CALLAWAY_CFEF33A3.VEH
+    Number = 23
+  }
+}

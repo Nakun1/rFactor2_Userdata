@@ -1,0 +1,37 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=2209
+Money=5002209
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_Cup_GT3_2018\1.41\16MRSGTRACEE1C7FD0.VEH"
+SinglePlayerFilter="GT3Cup-SuperCup"
+MultiPlayerFilter="|GT3Cup-Endurance|GT3Cup-SuperCup"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=140
+TotalRaces=5
+TotalRacesWithAI=3
+TotalPointsScored=5
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=9.000000
+AvgFinishPosition=13.400000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=95.000000
+[PLAYERTRACKSTAT]
+TrackName=BRIDGEHAMPTON
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\BRIDGEHAMPTON\1.03\BRIDGEHAMPTON
+ClassRecord="*",140,86.8516,87.2630,88.2116
+ClassRecord="GT3Cup-SuperCup",140,86.8516,87.2630,88.2116
+CRL="Porsche 911 GT3 Cup","Slick N2","Slick N2",27647457,4177327611,151142400
+CRQ="Porsche 911 GT3 Cup","Slick N2","Slick N2",27647742,4210883067,151142400
+CRR="Porsche 911 GT3 Cup","Slick N2","Slick N2",27647760,4261346814,2080522240
+ClassRecord="GT3Cup-Endurance",0,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3Cup-SuperCup",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3Cup-Endurance",-1.0000,-1.0000,-1.0000,0
+

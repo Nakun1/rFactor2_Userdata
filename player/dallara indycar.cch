@@ -1,0 +1,30 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=0
+Money=5000000
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\DallaraIR18_2020\1.71\15_RAHALF69BBD3C.VEH"
+SinglePlayerFilter="IndyCar_2021"
+MultiPlayerFilter="|IndyCar_2021"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=0
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=DAYTONARC_2022
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\DAYTONA_2022\1.23\DAYTONARC_2022
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Dallara IR18",-1.0000,-1.0000,-1.0000,0
+

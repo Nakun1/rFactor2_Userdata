@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Porsche_Cup
+{
+  Doublephil 6
+  {
+    Team = AGPX9
+    Component = Porsche_992_GT3_Cup_2022
+    Skin = alt.mas
+    VehFile = 0_P992CUP136022D9.VEH
+    Description = Doublechamp
+    Number = 8
+  }
+}

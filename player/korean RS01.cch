@@ -1,0 +1,29 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=0
+Money=5000000
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Renault_RS01\1.1\RS01_01.VEH"
+SinglePlayerFilter="Renault_RS01"
+MultiPlayerFilter="|Renault_RS01|Renault_RS01_Extreme"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=0
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=YEONGAMGP
+TrackFile=C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Locations\Korea_International_Circuit\2.0\YEONGAMGP
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+

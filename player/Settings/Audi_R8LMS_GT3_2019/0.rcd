@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  jim
+  {
+    Team = pp jean
+    Component = Audi_R8LMS_GT3_2019
+    Skin = alt.mas
+    VehFile = AUDI_R8LMS10267E96.VEH
+    Description = Audi
+    Number = 24
+  }
+}

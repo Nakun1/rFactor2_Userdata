@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=2385
+Money=5002385
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH"
+SinglePlayerFilter="Porsche_Cup"
+MultiPlayerFilter="|Porsche_Cup"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=42
+TotalRaces=1
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=5.000000
+AvgFinishPosition=4.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=2021_BARCELONA
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SRHF1_BARCELONA\F1\2021_BARCELONA
+ClassRecord="*",42,110.4382,110.4382,111.8560
+ClassRecord="Porsche 992 GT3 Cup",42,110.4382,110.4382,111.8560
+CRL="Porsche 992 Cup #27","Dry","Dry",27950197,4126733815,134348800
+CRQ="Porsche 992 Cup #27","Dry","Dry",27950197,4126733815,134348800
+CRR="Porsche 992 Cup #27","Dry","Dry",27950245,3252397244,738328576
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+

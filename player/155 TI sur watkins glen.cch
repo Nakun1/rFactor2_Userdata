@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=15865
+Money=5015865
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ALFA ROMEO 155 BY SIMDRIVERS.EU\1.3\155_14.VEH"
+SinglePlayerFilter="155V6"
+MultiPlayerFilter="|155V6"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=472
+TotalRaces=5
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=1.800000
+AvgFinishPosition=3.600000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=WATKINS_GLEN_BOOT
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\WATKINS_GLEN_INTERNATIONAL\1.15\WATKINS_GLEN_BOOT
+ClassRecord="*",472,100.7538,100.7538,102.9736
+ClassRecord="Alfa Romeo 155 V6",472,100.7538,100.7538,102.9736
+CRL="Alfa 155 V6 #14","S7 - Soft","S7 - Soft",27569998,4042586104,285360128
+CRQ="Alfa 155 V6 #14","S7 - Soft","S7 - Soft",27569998,4042586104,285360128
+CRR="Alfa 155 V6 #14","S7 - Soft","S7 - Soft",27570043,3671910377,1946304512
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Alfa Romeo 155 V6",-1.0000,-1.0000,-1.0000,0
+

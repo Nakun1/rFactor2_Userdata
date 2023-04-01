@@ -1,0 +1,41 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=803
+Money=5000803
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\207s2000\1.48\207XXX_VOUILLOZX.VEH"
+SinglePlayerFilter="207_TARMAC"
+MultiPlayerFilter="|207_GRAVEL|207_TARMAC"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=30
+TotalRaces=1
+TotalRacesWithAI=1
+TotalPointsScored=5
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=14.000000
+AvgFinishPosition=2.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=95.000000
+[PLAYERTRACKSTAT]
+TrackName=BIKERNIEKI_BIG
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\BIKERNIEKI\0.611\BIKERNIEKI_BIG
+ClassRecord="*",1,-1.0000,-1.0000,-1.0000
+ClassRecord="207s2000 TARMAC",1,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="207s2000 TARMAC",-1.0000,-1.0000,-1.0000,0
+[PLAYERTRACKSTAT]
+TrackName=BIKERNIEKI_OVAL
+TrackFile=F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Locations\Bikernieki\0.611\BIKERNIEKI_OVAL
+ClassRecord="*",29,43.0633,-1.0000,43.0633
+ClassRecord="207s2000 TARMAC",29,43.0633,-1.0000,43.0633
+CRL="N. Vouilloz #16","Goodrich Hard","Goodrich Hard",27667900,4244503036,67256320
+CRR="N. Vouilloz #16","Goodrich Hard","Goodrich Hard",27667900,4244503036,67256320
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="207s2000 TARMAC",-1.0000,-1.0000,-1.0000,0
+

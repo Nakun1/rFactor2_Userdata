@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Porsche_Cup
+{
+  Simrace dm
+  {
+    Team = Agp1
+    Component = Porsche_992_GT3_Cup_2022
+    Skin = alt_P1.mas
+    VehFile = 0_P992CUP136022D9.VEH
+    Description = Argent
+    Number = 10
+  }
+}

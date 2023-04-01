@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  AGP_FoXy_85
+  {
+    Team = Ventre a Choux Racing Team
+    Component = Audi_R8LMS_GT3_2019
+    Skin = alt.mas
+    VehFile = 29TEAMSPOR8057FCD7.VEH
+    Description = Audi VAC Racing Team #15
+    Number = 15
+  }
+}

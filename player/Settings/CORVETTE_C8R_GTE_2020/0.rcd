@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GTE
+{
+  Registo
+  {
+    Team = Gomme&Grip
+    Component = Corvette_C8R_GTE_2020
+    Skin = alt.mas
+    VehFile = 111_REDBULE5391BB9.VEH
+    Description = CUST CORVETTE C8R GTE 2020 #15
+    Number = 15
+  }
+}

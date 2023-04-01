@@ -1,0 +1,32 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=0
+Money=5000000
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ER_Flat6_Series_rF2\7.00\FLAT6GT3_135086.VEH"
+SinglePlayerFilter="Flat6Series"
+MultiPlayerFilter="|Flat6Series"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=1
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=NURBURGRING_NORDSCHLEIFE
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\NURBURGRING_2018\2.23\NURBURGRING_NORDSCHLEIFE
+ClassRecord="*",1,-1.0000,-1.0000,-1.0000
+ClassRecord="FlatGT3",1,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="FlatGT3",-1.0000,-1.0000,-1.0000,0
+

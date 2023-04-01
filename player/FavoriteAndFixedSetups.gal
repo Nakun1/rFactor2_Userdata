@@ -1,0 +1,161 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+AutoLoadEntry
+{
+  Track="SpaFrancorchampsEndurance"
+  Classes="GT3 GT3_FERRARI_488"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Spafrancorchamps\C2.svm"
+}
+
+AutoLoadEntry
+{
+  Track="SpaFrancorchamps"
+  Classes="GT3 GT3_FERRARI_488"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Spafrancorchamps\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Watkins_Glen_Boot"
+  Classes="155V6"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Watkins_Glen_Boot\c4 mf.svm"
+}
+
+AutoLoadEntry
+{
+  Track="LagunaSeca"
+  Classes="GT3 GT3_FERRARI_488"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Lagunaseca\c ferrari.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Buddh_GP"
+  Classes="Asia F.3 T318 Tatuus"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Buddh_Gp\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Kyalami_GrandPrix"
+  Classes="FF40LM"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Kyalami_Grandprix\q.svm"
+}
+
+AutoLoadEntry
+{
+  Track="SilverstoneGTLayout"
+  Classes="BMW320GTO"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Silverstonegtlayout\c2.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Zolder2016"
+  Classes="GT3 GT3_Mercedes_AMG"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Zolder2016\c amg.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Okayama_2017"
+  Classes="ARG_ISR_2011"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Okayama_2017\2022-07-17 - 18-16-51 - Okayama GP 2017 - Q1.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Bridgehampton_GP"
+  Classes="GT3Cup-SuperCup"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Bridgehampton_Gp\pcup c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Vallelunga Extended"
+  Classes="Datsun-SSS-L20B"
+  Session=10 // not currently used
+  File="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Vallelunga Extended\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="VLM_MidOhio_Mi200"
+  Classes="Spec_Miata2"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Vlm_Midohio_Mi200\course.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Botniaring_Long"
+  Classes="BMW1_2008"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Botniaring_Long\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Tsukuba"
+  Classes="Legends_Cars"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Tsukuba\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="NJMP_LIGHTNING"
+  Classes="Legends_Cars"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Njmp_Lightning\c2.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Guia_Circuit"
+  Classes="GT3 GT3_Bentley_Continental_2020"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Guia_Circuit\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="SRHF1_Barcelona"
+  Classes="Porsche_Cup"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Srhf1_Barcelona\q.svm"
+}
+
+AutoLoadEntry
+{
+  Track="LongBeach"
+  Classes="GTE GTE_FERRARI_488"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Longbeach\h.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Nurburgring_Nordschleife"
+  Classes="Porsche_Cup"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Nurburgring_Nordschleife\h.svm"
+}
+
+AutoLoadEntry
+{
+  Track="LeMans2022"
+  Classes="DPi LeMans24HV_2022 LMP2 LMP2_Oreca_07"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Lemans2022\q.svm"
+}
+

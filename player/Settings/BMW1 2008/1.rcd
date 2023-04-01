@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+BMW1_2008
+{
+  YB
+  {
+    Team = BMW Motorsport racing
+    Component = BMW1 2008
+    Skin = alt49170.mas
+    VehFile = 08BMW1_04.VEH
+    Description = BMW1 2008\BMW_Motorsport
+    Number = 49
+  }
+}

@@ -1,0 +1,34 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=686
+Money=5000686
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Mercedes_AMG_GT3_2017\2.95\2TEAMREDLIF645C77E.VEH"
+SinglePlayerFilter="GT3_Mercedes_AMG"
+MultiPlayerFilter="|GT3|GT3_AstonMartin|GT3_Audi_R8_LMS_2019|GT3_BMW_M6|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_FERRARI_488|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=135
+TotalRaces=12
+TotalRacesWithAI=12
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=11.083333
+AvgFinishPosition=12.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=95.000000
+[PLAYERTRACKSTAT]
+TrackName=ZOLDER2016
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\ZOLDER2016\1.1\ZOLDER2016
+ClassRecord="*",135,90.7273,-1.0000,94.4522
+ClassRecord="GT3",135,90.7273,-1.0000,94.4522
+CRL="Ferrari 488 GT3 #93","","",27623404,4294967295,4278190080
+CRR="Mercedes AMG GT3 #6","S7M (Soft)","S7M (Soft)",27624575,4244503290,1040318464
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3",-1.0000,-1.0000,-1.0000,0
+

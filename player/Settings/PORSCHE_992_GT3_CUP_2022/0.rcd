@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Porsche_Cup
+{
+  AGP_FoXy_85
+  {
+    Team = Ventre a Choux Racing Team
+    Component = Porsche_992_GT3_Cup_2022
+    Skin = alt_AGP_FoXy_85.mas
+    VehFile = 0_P992CUP136022D9.VEH
+    Description = VAC Racing Team #85
+    Number = 85
+  }
+}

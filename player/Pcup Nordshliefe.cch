@@ -1,0 +1,33 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=62
+Money=5000062
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH"
+SinglePlayerFilter="Porsche_Cup"
+MultiPlayerFilter="|Porsche_Cup"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=10
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=NURBURGRING_NORDSCHLEIFE
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\NURBURGRING_2018\2.43\NURBURGRING_NORDSCHLEIFE
+ClassRecord="*",10,427.0068,-1.0000,-1.0000
+ClassRecord="Porsche 992 GT3 Cup",10,427.0068,-1.0000,-1.0000
+CRL="Porsche 992 Cup #27","Dry","Dry",27962983,3975208422,1124204544
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+

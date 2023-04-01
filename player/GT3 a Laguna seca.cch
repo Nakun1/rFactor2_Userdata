@@ -1,0 +1,33 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=247
+Money=5000247
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Ferrari_488_GT3_2020\1.45\F488GT3_72DB9E49EC.VEH"
+SinglePlayerFilter="GT3_FERRARI_488"
+MultiPlayerFilter="|GT3|GT3_AstonMartin|GT3_Audi_R8_LMS_2019|GT3_BMW_M4|GT3_BMW_M6|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_FERRARI_488|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=37
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=LAGUNASECA_2022
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\LAGUNASECA_2022\1.01\LAGUNASECA_2022
+ClassRecord="*",37,83.5425,-1.0000,-1.0000
+ClassRecord="GT3",37,83.5425,-1.0000,-1.0000
+CRL="Ferrari 488 GT3 #72","S7M (Soft)","S8M (Medium)",27571256,4244372732,1895972864
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3",-1.0000,-1.0000,-1.0000,0
+

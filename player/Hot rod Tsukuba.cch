@@ -1,0 +1,34 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=918
+Money=5000918
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Legends_Cars\1.01\LEGENDS_CARS_93.VEH"
+SinglePlayerFilter="Legends_Cars"
+MultiPlayerFilter="|Legends_Cars"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=30
+TotalRaces=1
+TotalRacesWithAI=0
+TotalPointsScored=5
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=3.000000
+AvgFinishPosition=2.000000
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=TSUKUBA
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\TSUKUBA\1.2\TSUKUBA
+ClassRecord="*",30,64.8264,-1.0000,64.8264
+ClassRecord="Legends Cars",30,64.8264,-1.0000,64.8264
+CRL="#93 Legends Cars","Hoosier LCC","Hoosier LCC",27906661,4160419577,805437440
+CRR="#93 Legends Cars","Hoosier LCC","Hoosier LCC",27906661,4160419577,805437440
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Legends Cars",-1.0000,-1.0000,-1.0000,0
+

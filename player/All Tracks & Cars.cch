@@ -1,0 +1,47 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=42
+Money=5000042
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH"
+SinglePlayerFilter="Porsche_Cup"
+MultiPlayerFilter="|207_GRAVEL|207_TARMAC|BMW1_2008|BMW320GTO|Datsun-SSS-1970|Datsun-SSS-1971|Datsun-SSS-L18|Datsun-SSS-L20B|FF40LM|Flat6Series|GT3|GT3Cup-Endurance|GT3Cup-SuperCup|GT3_AstonMartin|GT3_Audi_R8_LMS_2018|GT3_Audi_R8_LMS_2019|GT3_BMW_M4|GT3_BMW_M6|GT3_Bentley_Continental|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_FERRARI_488|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo|GTE|GTE_AstonMartin|GTE_BMW_M8|GTE_Corvette_C7.R|GTE_Corvette_C8.R|GTE_FERRARI_488|GTE_Porsche_991RSR|IAVA|LeMans24HV|LeMans24HV_2020|LeMans24HV_2022|Legends_Cars|Porsche_Cup|PumaGTE|Spec_Miata|Spec_Miata1|Spec_Miata2"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=9
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=GPVWC_RBR_2018
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SRHF1_REDBULLRING\F1\GPVWC_RBR_2018
+ClassRecord="*",7,94.1367,-1.0000,-1.0000
+ClassRecord="Porsche 992 GT3 Cup",7,94.1367,-1.0000,-1.0000
+CRL="Porsche 992 Cup #27","Dry","Dry",27992017,4176933620,1677852672
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+[PLAYERTRACKSTAT]
+TrackName=MAGNYCOURS
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\MAGNYCOURS_GP\1.52\MAGNYCOURS
+ClassRecord="*",0,-1.0000,-1.0000,-1.0000
+ClassRecord="Porsche 992 GT3 Cup",0,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+[PLAYERTRACKSTAT]
+TrackName=RED_BULL_RING_GP
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SM_RED_BULL_RING_V1.3\1.3\RED_BULL_RING_GP
+ClassRecord="*",2,-1.0000,-1.0000,-1.0000
+ClassRecord="Porsche 992 GT3 Cup",2,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+

@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Spec_Miata2
+{
+  BY
+  {
+    Team = Mazda MX-5 Racing 787b
+    Component = MX-5_SpecMiata
+    Skin = alt2.mas
+    VehFile = SM2_206.VEH
+    Description = MX-5_SpecMiata\787bRacing
+    Number = 49
+  }
+}

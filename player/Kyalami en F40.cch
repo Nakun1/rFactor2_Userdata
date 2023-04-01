@@ -1,0 +1,33 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=218
+Money=5000218
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\T78_FF40LM\1.2\FF40LM_56.VEH"
+SinglePlayerFilter="FF40LM"
+MultiPlayerFilter="|FF40LM"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=28
+TotalRaces=0
+TotalRacesWithAI=0
+TotalPointsScored=0
+TotalChampionships=0
+TotalWins=0
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=0.000000
+AvgFinishPosition=0.000000
+AvgRaceDistance=0.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=KYALAMI_GRANDPRIX
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\KYALAMI_2022\2.01\KYALAMI_GRANDPRIX
+ClassRecord="*",28,94.9727,-1.0000,-1.0000
+ClassRecord="FF40LM",28,94.9727,-1.0000,-1.0000
+CRL="Pilot Racing #56","","",27605842,4294967295,4278190080
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="FF40LM",-1.0000,-1.0000,-1.0000,0
+

@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Porsche_Cup
+{
+  Registo
+  {
+    Team = Gomme&Grip
+    Component = Porsche_992_GT3_Cup_2022
+    Skin = alt.mas
+    VehFile = 0_P992CUP136022D9.VEH
+    Description = CUST PORSCHE 992 CUP #15
+    Number = 15
+  }
+}

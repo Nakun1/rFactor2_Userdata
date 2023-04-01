@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+BMW1_2008
+{
+  AGP_FoXy_85
+  {
+    Team = Ventre a Choux Racing Team
+    Component = BMW1 2008
+    Skin = alt_FoXy_85.mas
+    VehFile = 08BMW1_10.VEH
+    Description = #10 VAC Racing Team
+    Number = 10
+  }
+}

@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=3190
+Money=5003190
+CurSeasIndex=0
+SinglePlayerVehicle="F:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\BMW320GTO\2.7.9\BMW320GTO_51.VEH"
+SinglePlayerFilter="BMW320GTO"
+MultiPlayerFilter="|BMW320GTO"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=192
+TotalRaces=6
+TotalRacesWithAI=4
+TotalPointsScored=5
+TotalChampionships=0
+TotalWins=0
+TotalPoles=4
+TotalLapRecords=0
+AvgStartPosition=2.166667
+AvgFinishPosition=8.666667
+AvgRaceDistance=50.000000
+AvgOpponentStrength=95.000000
+[PLAYERTRACKSTAT]
+TrackName=SILVERSTONE_GTLAYOUT
+TrackFile=F:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SILVERSTONE_2016\2.16\SILVERSTONE_GTLAYOUT
+ClassRecord="*",192,104.0330,104.1885,108.8691
+ClassRecord="BMW 320T GTO",192,104.0330,104.1885,108.8691
+CRL="BMW 320T GTO 051","T1-SOFT","T1-SOFT",27615928,3840864499,335675392
+CRQ="BMW 320T GTO 051","T1-SOFT","T1-SOFT",27620382,3840995573,218234880
+CRR="BMW 320T GTO 051","T2-HARD","T2-HARD",27620427,4210883066,2768371712
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="BMW 320T GTO",-1.0000,-1.0000,-1.0000,0
+
