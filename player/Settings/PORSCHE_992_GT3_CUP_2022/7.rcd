@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Porsche_Cup
+{
+  jipaille
+  {
+    Team = agp
+    Component = Porsche_992_GT3_Cup_2022
+    Skin = altsteve_car.dds
+    VehFile = 9_FACHB482007D.veh
+    Description = A que coucou
+    Number = 37
+  }
+}

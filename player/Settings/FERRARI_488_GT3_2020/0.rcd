@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  Fafabutterfly
+  {
+    Team = FAF
+    Component = Ferrari_488_GT3_2020
+    Skin = alt397clear.mas
+    VehFile = F488GT3_93B5C33E07.VEH
+    Description = GT3 F488
+    Number = 74
+  }
+}

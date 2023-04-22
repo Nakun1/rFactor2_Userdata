@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  AGP_FoXy_85
+  {
+    Team = Ventre à Choux Racing Team
+    Component = MERCEDES_AMG_GT3_2017
+    Skin = alt_foxy.mas
+    VehFile = DEANC803FF4A.VEH
+    Description = VAC Racing Team #85
+    Number = 85
+  }
+}

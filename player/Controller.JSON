@@ -509,23 +509,23 @@
     ],
     "Controller 3 Axis  X Zone":[
       0,
-      0,
-      0,
-      0.194827,
-      0.38793
+      0.5,
+      0.5,
+      0.5,
+      1
     ],
     "Controller 3 Axis  Y Zone":[
       0,
-      0,
-      0,
-      0.0959487,
-      0.822828
+      0.5,
+      0.5,
+      0.5,
+      1
     ],
     "Controller 3 Axis  Z Zone":[
       0,
-      0,
-      0,
-      0,
+      0.5,
+      0.5,
+      0.5,
       1
     ],
     "Controller 3 Axis RX Zone":[
@@ -565,23 +565,23 @@
     ],
     "Controller 4 Axis  X Zone":[
       0,
-      0.5,
-      0.5,
-      0.5,
-      1
+      0,
+      0,
+      0.194827,
+      0.38793
     ],
     "Controller 4 Axis  Y Zone":[
       0,
-      0.5,
-      0.5,
-      0.5,
-      1
+      0,
+      0,
+      0.0959487,
+      0.822828
     ],
     "Controller 4 Axis  Z Zone":[
       0,
-      0.5,
-      0.5,
-      0.5,
+      0,
+      0,
+      0,
       1
     ],
     "Controller 4 Axis RX Zone":[
@@ -908,8 +908,8 @@
     "Device Name 15":"",
     "Device Name 16":"",
     "Device Name 2":"Serial\/Keyboard\/Mouse\/Joystick=#16c00487#47C44FE0-8527-11ED-8005-444553540000",
-    "Device Name 3":"HE SIM PEDALS=#10c48b02#48AFE860-8527-11ED-800C-444553540000",
-    "Device Name 4":"T500 RS Gear Shift=#044fb660#48AFC150-8527-11ED-800B-444553540000",
+    "Device Name 3":"T500 RS Gear Shift=#044fb660#48AFC150-8527-11ED-800B-444553540000",
+    "Device Name 4":"HE SIM PEDALS=#10c48b02#48AFE860-8527-11ED-800C-444553540000",
     "Device Name 5":"DSD 32 Button Controller - EST=#04d88a3d#47C49E00-8527-11ED-8007-444553540000",
     "Device Name 6":"",
     "Device Name 7":"",
@@ -969,13 +969,13 @@
     "Steering resistance coefficient#":"Coefficient to use for steering resistance.  Range: -1.0 to 1.0",
     "Steering resistance saturation":0.1,
     "Steering resistance saturation#":"Saturation value to use for steering resistance.  Range: 0 - 1.0",
-    "Steering resistance type":0,
+    "Steering resistance type":1,
     "Steering resistance type#":"0=use damping, 1=use friction",
     "Steering spring coefficient":0,
     "Steering spring coefficient#":"Static spring effect rate (-1.0 to 1.0)",
     "Steering spring saturation":0,
     "Steering spring saturation#":"Static spring effect peak force (0.0 to 1.0)",
-    "Steering torque capability":18,
+    "Steering torque capability":13.4,
     "Steering torque capability#":"The maximum torque capability of the wheel (in Nm, obviously)",
     "Steering torque extrap blend":0,
     "Steering torque extrap blend#":"Higher blends of extrapolated value allows driver to feel torque changes even when actual torque exceeds 'input max' (0.0=disables, 1.0=max)",
@@ -1124,7 +1124,7 @@
     "Steering Wheel Maximum Rotation Default#":"Default maximum wheel range to use when not read from driver, from 40 to 1440 degrees",
     "Steering Wheel Maximum Rotation from Driver":false,
     "Steering Wheel Maximum Rotation from Driver#":"Whether to read the steering wheel rotation from the wheel driver, if possible",
-    "Steering Wheel Range":540,
+    "Steering Wheel Range":524,
     "Steering Wheel Range#":"Degrees of steering wheel rotation, both visual and physical (if available)",
     "Steering Wheel Software Rotation":true,
     "Steering Wheel Software Rotation#":"Whether to limit the maximum steering wheel rotation in software",
@@ -1231,12 +1231,12 @@
       67
     ],
     "Control - Antilock Brake System Down":[
-      0,
-      89
+      5,
+      45
     ],
     "Control - Antilock Brake System Up":[
-      0,
-      89
+      5,
+      44
     ],
     "Control - Arm Attack Mode":[
       0,
@@ -1263,7 +1263,7 @@
       52
     ],
     "Control - Brake":[
-      3,
+      4,
       2
     ],
     "Control - Braking Help":[
@@ -1343,7 +1343,7 @@
       89
     ],
     "Control - Clutch In":[
-      3,
+      4,
       0
     ],
     "Control - Custom Plugin #1":[
@@ -1495,15 +1495,15 @@
       89
     ],
     "Control - Fifth Gear":[
-      4,
+      3,
       36
     ],
     "Control - First Gear":[
-      4,
+      3,
       32
     ],
     "Control - Fourth Gear":[
-      4,
+      3,
       35
     ],
     "Control - Framerate":[
@@ -1559,8 +1559,8 @@
       89
     ],
     "Control - Horn":[
-      1,
-      35
+      2,
+      55
     ],
     "Control - Ignition":[
       1,
@@ -1843,7 +1843,7 @@
       89
     ],
     "Control - Reverse Gear":[
-      4,
+      3,
       39
     ],
     "Control - Screenshot":[
@@ -1851,7 +1851,7 @@
       88
     ],
     "Control - Second Gear":[
-      4,
+      3,
       33
     ],
     "Control - Seventh Gear":[
@@ -1867,7 +1867,7 @@
       33
     ],
     "Control - Sixth Gear":[
-      4,
+      3,
       37
     ],
     "Control - Skip Formation":[
@@ -1955,11 +1955,11 @@
       89
     ],
     "Control - Third Gear":[
-      4,
+      3,
       34
     ],
     "Control - Throttle":[
-      3,
+      4,
       4
     ],
     "Control - Time Acceleration":[
@@ -1971,8 +1971,8 @@
       23
     ],
     "Control - Toggle Cursor":[
-      2,
-      55
+      0,
+      89
     ],
     "Control - Toggle Free Lens":[
       0,
@@ -2023,12 +2023,12 @@
       41
     ],
     "Control - Traction Control Slip Angle Down":[
-      5,
-      45
+      0,
+      89
     ],
     "Control - Traction Control Slip Angle Up":[
-      5,
-      44
+      0,
+      89
     ],
     "Control - Traction Control Up":[
       5,

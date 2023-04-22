@@ -102,7 +102,7 @@ AIParameters="Mazda 787B",-1.0000,-1.0000,-1.0000,0
 AIParameters="Scuderia Ferrari SpA",-1.0000,-1.0000,-1.0000,0
 [PLAYERTRACKSTAT]
 TrackName=OULTONPARK_INT
-TrackFile=C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Locations\Oulton_Park_Circuit_2015\1.5\OULTONPARK_INT
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\OULTON_PARK_CIRCUIT_2015\1.5\OULTONPARK_INT
 ClassRecord="*",2,-1.0000,-1.0000,-1.0000
 ClassRecord="BMW_320i_STW",2,-1.0000,-1.0000,-1.0000
 AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0

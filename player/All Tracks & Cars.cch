@@ -1,7 +1,7 @@
 //[[gMa1.002f (c)2016    ]] [[            ]]
 [CAREER]
-Experience=42
-Money=5000042
+Experience=93
+Money=5000093
 CurSeasIndex=0
 SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH"
 SinglePlayerFilter="Porsche_Cup"
@@ -10,7 +10,7 @@ AIAggression=0.2500
 SinglePlayerAIStrength=95
 MultiPlayerAIStrength=95
 AbortedSeasons=0
-TotalLaps=9
+TotalLaps=37
 TotalRaces=0
 TotalRacesWithAI=0
 TotalPointsScored=0
@@ -42,6 +42,21 @@ TrackName=RED_BULL_RING_GP
 TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SM_RED_BULL_RING_V1.3\1.3\RED_BULL_RING_GP
 ClassRecord="*",2,-1.0000,-1.0000,-1.0000
 ClassRecord="Porsche 992 GT3 Cup",2,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
+[PLAYERTRACKSTAT]
+TrackName=GPVWC_SUZUKA_2019
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SRHF1_SUZUKA\F1\GPVWC_SUZUKA_2019
+ClassRecord="*",17,-1.0000,-1.0000,-1.0000
+ClassRecord="GT3",17,-1.0000,-1.0000,-1.0000
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3",-1.0000,-1.0000,-1.0000,0
+[PLAYERTRACKSTAT]
+TrackName=MONZA_2021
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\MONZA_2021\1.33\MONZA_2021
+ClassRecord="*",11,111.0768,-1.0000,-1.0000
+ClassRecord="Porsche 992 GT3 Cup",11,111.0768,-1.0000,-1.0000
+CRL="Porsche 992 Cup #27","Dry","Dry",28024853,4177131000,1694629888
 AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
 AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
 

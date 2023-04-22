@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  Double Phil9
+  {
+    Team = DBLX3
+    Component = BMW_M4_GT3_2020
+    Skin = alt.mas
+    VehFile = 1_BMW_M4_GCC49CA97.VEH
+    Description = Perso3
+    Number = 1
+  }
+}

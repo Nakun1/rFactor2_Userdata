@@ -159,3 +159,43 @@ AutoLoadEntry
   File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Lemans2022\q.svm"
 }
 
+AutoLoadEntry
+{
+  Track="Oultonpark_INT"
+  Classes="iDT_FunCup_06_ZZ"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Oultonpark_Int\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Red_Bull_Ring_GP"
+  Classes="Porsche_Cup"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Red_Bull_Ring_Gp\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Croft"
+  Classes="A110CUP A110CUP21 A110Series"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Croft\c.svm"
+}
+
+AutoLoadEntry
+{
+  Track="SRHF1_Suzuka"
+  Classes="GT3 GT3_FERRARI_488"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Srhf1_Suzuka\c2.svm"
+}
+
+AutoLoadEntry
+{
+  Track="Monza"
+  Classes="Porsche_Cup"
+  Session=10 // not currently used
+  File="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\UserData\player\Settings\Monza\c.svm"
+}
+

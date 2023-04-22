@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+GT3
+{
+  AGP_Registo
+  {
+    Team = Gomme&Grip
+    Component = Callaway_Corvette_GT3_2017
+    Skin = alt_c7.mas
+    VehFile = CALLAWAY_CB576D2AB.VEH
+    Description = REG Corvette C7 GT3
+    Number = 15
+  }
+}

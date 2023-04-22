@@ -1,0 +1,35 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+[CAREER]
+Experience=4185
+Money=5004185
+CurSeasIndex=0
+SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Ferrari_488_GT3_2020\3.59\F488GT3_728EE1ED16.VEH"
+SinglePlayerFilter="GT3_FERRARI_488"
+MultiPlayerFilter="|207_GRAVEL|207_TARMAC|BMW1_2008|BMW320GTO|Datsun-SSS-1970|Datsun-SSS-1971|Datsun-SSS-L18|Datsun-SSS-L20B|FF40LM|Flat6Series|GT3|GT3Cup-Endurance|GT3Cup-SuperCup|GT3_AstonMartin|GT3_Audi_R8_LMS_2018|GT3_Audi_R8_LMS_2019|GT3_BMW_M4|GT3_BMW_M6|GT3_Bentley_Continental|GT3_Bentley_Continental_2020|GT3_Callaway_Corvette_C7|GT3_FERRARI_488|GT3_McLaren_650S|GT3_McLaren_720S|GT3_Mercedes_AMG|GT3_Porsche_911_GT3_R|GT3_Radical_RXC_Turbo|GTE|GTE_AstonMartin|GTE_BMW_M8|GTE_Corvette_C7.R|GTE_Corvette_C8.R|GTE_FERRARI_488|GTE_Porsche_991RSR|IAVA|LeMans24HV|LeMans24HV_2020|LeMans24HV_2022|Legends_Cars|Porsche_Cup|PumaGTE|Spec_Miata|Spec_Miata1|Spec_Miata2"
+AIAggression=0.2500
+SinglePlayerAIStrength=95
+MultiPlayerAIStrength=95
+AbortedSeasons=0
+TotalLaps=137
+TotalRaces=6
+TotalRacesWithAI=0
+TotalPointsScored=8
+TotalChampionships=0
+TotalWins=1
+TotalPoles=0
+TotalLapRecords=0
+AvgStartPosition=5.333333
+AvgFinishPosition=5.722221
+AvgRaceDistance=50.000000
+AvgOpponentStrength=0.000000
+[PLAYERTRACKSTAT]
+TrackName=GPVWC_SUZUKA_2019
+TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SRHF1_SUZUKA\F1\GPVWC_SUZUKA_2019
+ClassRecord="*",137,120.1676,120.1676,121.3151
+ClassRecord="GT3",137,120.1676,120.1676,121.3151
+CRL="Ferrari 488 GT3 #72","Soft","Soft",28022189,3991597039,268566528
+CRQ="Ferrari 488 GT3 #72","Soft","Soft",28022189,3991597039,268566528
+CRR="Ferrari 488 GT3 #72","Soft","Soft",28021997,3940805610,1778515968
+AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
+AIParameters="GT3",-1.0000,-1.0000,-1.0000,0
+

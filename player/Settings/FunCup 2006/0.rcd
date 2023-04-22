@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+iDT_FunCup_06_ZZ
+{
+  fox
+  {
+    Team = Splash Team 85
+    Component = FunCup 2006
+    Skin = alt_funfox.mas
+    VehFile = FUNCUP_ZZ006_TEX.VEH
+    Description = Volkswagen ZZ
+    Number = 85
+  }
+}

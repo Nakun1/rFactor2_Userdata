@@ -1,56 +1,56 @@
-VehicleClassSetting="BTCC_90'S BTCC_90'S_BMW_320I"
+VehicleClassSetting="Porsche_Cup"
 UpgradeSetting=(0,0,0,0)
-//VEH=C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\BTCC_90'S_BMW_320I_STW\1.00\320I_011.VEH
+//VEH=C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH
 //UpgradeClass=
 //Note: settings commented out if using the default
 
 [GENERAL]
-Notes="BMW_320i_STW British Touring Car Championship"
+Notes=""
 Symmetric=1
-//CGHeightSetting=0//31.2 cm
-//CGRightSetting=0//50.2:49.8
-//CGRearSetting=0//53.5:46.5
-//WedgeSetting=0//0.00 tourne
-//FrontTireCompoundSetting=0//PILOT SX SLICK
-//RearTireCompoundSetting=0//PILOT SX SLICK
-//FuelSetting=59//60L (25tours)
-//NumPitstopsSetting=1//1
-//Pitstop1Setting=59//+59L (24tours)
-//Pitstop2Setting=59//N/A
-//Pitstop3Setting=59//N/A
+//CGHeightSetting=0//Non-adjustable
+//CGRightSetting=0//Non-adjustable
+//CGRearSetting=0//Non-adjustable
+//WedgeSetting=0//N/A
+//FrontTireCompoundSetting=0//Pneus sec
+//RearTireCompoundSetting=0//Pneus sec
+//FuelSetting=49//50L (14tours)
+//NumPitstopsSetting=0//0
+//Pitstop1Setting=50//N/A
+//Pitstop2Setting=50//N/A
+//Pitstop3Setting=50//N/A
 
 [LEFTFENDER]
-//FenderFlareSetting=0//0.0 cm
+//FenderFlareSetting=0//N/A
 
 [RIGHTFENDER]
-//FenderFlareSetting=0//0.0 cm
+//FenderFlareSetting=0//N/A
 
 [FRONTWING]
-//FWSetting=1//2
+//FWSetting=0//Standard
 
 [REARWING]
-//RWSetting=6//7
+//RWSetting=2//P6
 
 [BODYAERO]
-//WaterRadiatorSetting=0//100%
-//OilRadiatorSetting=0//
-//BrakeDuctSetting=2//Ouvert
-//BrakeDuctRearSetting=0//1
+//WaterRadiatorSetting=0//No tape
+//OilRadiatorSetting=0//Non-adjustable
+//BrakeDuctSetting=0//Non-adjustable
+//BrakeDuctRearSetting=0//Non-adjustable
 
 [SUSPENSION]
-//FrontWheelTrackSetting=0//0.0 cm
-//RearWheelTrackSetting=0//0.0 cm
-//FrontAntiSwaySetting=12//155 N/mm
-//RearAntiSwaySetting=4//70 N/mm
-//FrontToeInSetting=16//-0.20 deg
-//FrontToeOffsetSetting=0//0.00 deg
-//RearToeInSetting=22//0.10 deg
-//RearToeOffsetSetting=0//0.00 deg
-//LeftCasterSetting=40//8.0 deg
-//RightCasterSetting=40//8.0 deg
+//FrontWheelTrackSetting=0//Non-adjustable
+//RearWheelTrackSetting=0//Non-adjustable
+//FrontAntiSwaySetting=3//P3
+//RearAntiSwaySetting=4//P4
+//FrontToeInSetting=23//-0.264 deg
+//FrontToeOffsetSetting=0//0 °
+//RearToeInSetting=39//0.506 deg
+//RearToeOffsetSetting=0//0 °
+//LeftCasterSetting=0//Non-adjustable
+//RightCasterSetting=0//Non-adjustable
 //LeftTrackBarSetting=0//0.0 cm
 //RightTrackBarSetting=0//0.0 cm
-//Front3rdPackerSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 mm
 //Front3rdSpringSetting=0//Detacher
 //Front3rdTenderSpringSetting=0//Detacher
 //Front3rdTenderTravelSetting=0//Detacher
@@ -80,108 +80,108 @@ Symmetric=1
 //ChassisAdj11Setting=0//1
 
 [CONTROLS]
-//SteerLockSetting=20//15.0 deg
-//RearBrakeSetting=37//56.5:43.5
-//BrakePressureSetting=90//90%
-//HandfrontbrakePressSetting=0//0%
-//HandbrakePressSetting=0//40%
-//TCSetting=0//1
-//ABSSetting=0//1
-//TractionControlMapSetting=0//0
+//SteerLockSetting=6//524° (16.8°)
+//RearBrakeSetting=10//53.5:46.5
+//BrakePressureSetting=30//70 kgf (88%)
+//HandfrontbrakePressSetting=0//N/A
+//HandbrakePressSetting=0//N/A
+//TCSetting=0//Aid (Weight Penalty)
+//ABSSetting=0//Aid (Weight Penalty)
+//TractionControlMapSetting=0//N/A
 //TCPowerCutMapSetting=0//0
 //TCSlipAngleMapSetting=0//0
-//AntilockBrakeSystemMapSetting=0//0
+//AntilockBrakeSystemMapSetting=0//N/A
 
 [ENGINE]
-//RevLimitSetting=0//8,500
+//RevLimitSetting=0//8,750
 //EngineBoostSetting=0//1
 //RegenerationMapSetting=0//0%
 //ElectricMotorMapSetting=0//0
 //Push2PassMapSetting=0//0
 //EngineMixtureSetting=0//0
-//EngineBrakingMapSetting=3//3
+//EngineBrakingMapSetting=0//0
 
 [DRIVELINE]
-//FinalDriveSetting=4//3.82:1
-//ReverseSetting=0//3.00 (11.46)
-Gear1Setting=0//3.00 (11.46)
-Gear2Setting=1//2.19 (8.36)
-Gear3Setting=2//1.69 (6.45)
-Gear4Setting=3//1.38 (5.27)
-Gear5Setting=4//1.19 (4.56)
-Gear6Setting=5//1.07 (4.09)
+//FinalDriveSetting=0//3.74:1
+//ReverseSetting=0//2.85 (10.64)
+Gear1Setting=0//3.15 (11.79)
+Gear2Setting=0//2.35 (8.79)
+Gear3Setting=0//1.85 (6.91)
+Gear4Setting=0//1.50 (5.61)
+Gear5Setting=0//1.25 (4.67)
+Gear6Setting=0//1.07 (4.00)
 //RatioSetSetting=0//N/A
-//DiffPumpSetting=0//0%
-//DiffPowerSetting=0//30%
-//DiffCoastSetting=0//55%
-//DiffPreloadSetting=4//70Nm
+//DiffPumpSetting=0//N/A
+//DiffPowerSetting=0//Non-adjustable
+//DiffCoastSetting=0//Non-adjustable
+//DiffPreloadSetting=20//100 Nm
 //RearSplitSetting=0// 0.0:100.0
 //GearAutoUpShiftSetting=0//Sans
 //GearAutoDownShiftSetting=0//Sans
 
 [FRONTLEFT]
-//CamberSetting=24//-3.6 deg
-//PressureSetting=10//160 kPa
-//PackerSetting=0//0.0 cm
-//SpringSetting=5//135 N/mm
-//TenderSpringSetting=0//Detacher
-//TenderTravelSetting=0//Detacher
+//CamberSetting=18//-4.20 deg
+//PressureSetting=15//155 kPa
+//PackerSetting=0//0.0 mm
+//SpringSetting=0//260 N/mm
+//TenderSpringSetting=0//Standard
+//TenderTravelSetting=0//Standard
 //SpringRubberSetting=0//Detacher
-//RideHeightSetting=4//6.5 cm
-//SlowBumpSetting=7//8
-//FastBumpSetting=15//16
-//SlowReboundSetting=9//10
-//FastReboundSetting=7//8
-//BrakeDiscSetting=0//3.50 cm
-//BrakePadSetting=2//3
+//RideHeightSetting=0//67.0 mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
+//SlowReboundSetting=0//1
+//FastReboundSetting=0//1
+//BrakeDiscSetting=0//3.20 cm
+//BrakePadSetting=0//1
 
 [FRONTRIGHT]
-//CamberSetting=24//-3.6 deg
-//PressureSetting=10//160 kPa
-//PackerSetting=0//0.0 cm
-//SpringSetting=5//135 N/mm
-//TenderSpringSetting=0//Detacher
-//TenderTravelSetting=0//Detacher
+//CamberSetting=18//-4.20 deg
+//PressureSetting=15//155 kPa
+//PackerSetting=0//0.0 mm
+//SpringSetting=0//260 N/mm
+//TenderSpringSetting=0//Standard
+//TenderTravelSetting=0//Standard
 //SpringRubberSetting=0//Detacher
-//RideHeightSetting=4//6.5 cm
-//SlowBumpSetting=7//8
-//FastBumpSetting=15//16
-//SlowReboundSetting=9//10
-//FastReboundSetting=7//8
-//BrakeDiscSetting=0//3.50 cm
-//BrakePadSetting=2//3
+//RideHeightSetting=0//67.0 mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
+//SlowReboundSetting=0//1
+//FastReboundSetting=0//1
+//BrakeDiscSetting=0//3.20 cm
+//BrakePadSetting=0//1
 
 [REARLEFT]
-//CamberSetting=25//-2.5 deg
-//PressureSetting=5//155 kPa
-//PackerSetting=0//0.0 cm
-//SpringSetting=7//105 N/mm
-//TenderSpringSetting=0//Detacher
-//TenderTravelSetting=0//Detacher
+//CamberSetting=11//-3.90 deg
+//PressureSetting=10//150 kPa
+//PackerSetting=0//0.0 mm
+//SpringSetting=0//300 N/mm
+//TenderSpringSetting=0//Standard
+//TenderTravelSetting=0//Standard
 //SpringRubberSetting=0//Detacher
-//RideHeightSetting=3//8.0 cm
-//SlowBumpSetting=5//6
-//FastBumpSetting=15//16
+//RideHeightSetting=0//81.0 mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
 //SlowReboundSetting=0//1
-//FastReboundSetting=2//3
+//FastReboundSetting=0//1
 //BrakeDiscSetting=0//3.20 cm
-//BrakePadSetting=2//3
+//BrakePadSetting=0//1
 
 [REARRIGHT]
-//CamberSetting=25//-2.5 deg
-//PressureSetting=5//155 kPa
-//PackerSetting=0//0.0 cm
-//SpringSetting=7//105 N/mm
-//TenderSpringSetting=0//Detacher
-//TenderTravelSetting=0//Detacher
+//CamberSetting=11//-3.90 deg
+//PressureSetting=10//150 kPa
+//PackerSetting=0//0.0 mm
+//SpringSetting=0//300 N/mm
+//TenderSpringSetting=0//Standard
+//TenderTravelSetting=0//Standard
 //SpringRubberSetting=0//Detacher
-//RideHeightSetting=3//8.0 cm
-//SlowBumpSetting=5//6
-//FastBumpSetting=15//16
+//RideHeightSetting=0//81.0 mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
 //SlowReboundSetting=0//1
-//FastReboundSetting=2//3
+//FastReboundSetting=0//1
 //BrakeDiscSetting=0//3.20 cm
-//BrakePadSetting=2//3
+//BrakePadSetting=0//1
 
 [BASIC]
 Downforce=0.500000

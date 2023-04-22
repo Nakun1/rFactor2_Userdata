@@ -1,7 +1,7 @@
 //[[gMa1.002f (c)2016    ]] [[            ]]
 [CAREER]
-Experience=2061
-Money=5002061
+Experience=11434
+Money=5011434
 CurSeasIndex=0
 SinglePlayerVehicle="C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Vehicles\Porsche_992_GT3_Cup_2022\1.05\27_GPELITEC610D23C.VEH"
 SinglePlayerFilter="Porsche_Cup"
@@ -10,26 +10,26 @@ AIAggression=0.2500
 SinglePlayerAIStrength=95
 MultiPlayerAIStrength=95
 AbortedSeasons=0
-TotalLaps=69
-TotalRaces=1
-TotalRacesWithAI=0
+TotalLaps=231
+TotalRaces=8
+TotalRacesWithAI=2
 TotalPointsScored=0
 TotalChampionships=0
 TotalWins=1
 TotalPoles=0
 TotalLapRecords=0
-AvgStartPosition=2.000000
-AvgFinishPosition=1.000000
+AvgStartPosition=5.750000
+AvgFinishPosition=5.843750
 AvgRaceDistance=50.000000
-AvgOpponentStrength=0.000000
+AvgOpponentStrength=95.000000
 [PLAYERTRACKSTAT]
 TrackName=RED_BULL_RING_GP
 TrackFile=C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\RFACTOR 2\INSTALLED\LOCATIONS\SM_RED_BULL_RING_V1.3\1.3\RED_BULL_RING_GP
-ClassRecord="*",69,91.5524,91.5524,93.1887
-ClassRecord="Porsche 992 GT3 Cup",69,91.5524,91.5524,93.1887
-CRL="Porsche 992 Cup #27","Dry","Dry",28005033,4193843191,201457664
-CRQ="Porsche 992 Cup #27","Dry","Dry",28005033,4193843191,201457664
-CRR="Porsche 992 Cup #27","Dry","Dry",28004990,4227528953,2147614720
+ClassRecord="*",231,90.9282,91.1544,91.5730
+ClassRecord="Porsche 992 GT3 Cup",231,90.9282,91.1544,91.5730
+CRL="Porsche 992 Cup #27","Dry","Dry",28009021,4193842680,218234880
+CRQ="Porsche 992 Cup #27","Dry","Dry",28010610,4126535925,117571584
+CRR="Porsche 992 Cup #27","Dry","Dry",28010657,3182794679,369229824
 AIParameters="Pace Car",-1.0000,-1.0000,-1.0000,0
 AIParameters="Porsche 992 GT3 Cup",-1.0000,-1.0000,-1.0000,0
 
